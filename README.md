@@ -7,11 +7,6 @@
 
 ---
 
-### 📊 My Hacker Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=samir07niu&show_icons=true&theme=radical" alt="Sameer's Github Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samir07niu&theme=radical" alt="Sameer's Streak" />
-</p>
 
 ### 💻 Tech Stack
 <p align="center">
