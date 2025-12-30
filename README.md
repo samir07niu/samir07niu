@@ -20,9 +20,22 @@
   <img src="https://img.shields.io/badge/OS-Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tool-Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Skill-Ethical_Hacking-000000?style=for-the-badge&logo=hack-the-box&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats (Classified Data)
-![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=samir07niu&show_icons=true&theme=radical)
+### 📊 Classified Data (Stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samir07niu&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir07niu&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir07niu&theme=radical&hide_border=true" alt="streak graph" />
+</div>
+
+---
+<div align="center">
+  <i>"Security is just an illusion... until you code it." - Panther</i>
+</div>
