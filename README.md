@@ -26,14 +26,12 @@
 ---
 
 ### 📊 Classified Data (Stats)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samir07niu&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir07niu&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir07niu&theme=radical&hide_border=true" alt="streak graph" />
-</div>
+![Sameer's Stats](https://github-readme-stats.vercel.app/api?username=samir07niu&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samir07niu&layout=compact&theme=radical&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=samir07niu&theme=radical&hide_border=true)
 
 ---
 <div align="center">
