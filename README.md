@@ -1,4 +1,4 @@
-# 🕵️ Agent Samir Raja (Panther)
+# 🕵️ Samir Raja (Panther)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Cyber+Security+Enthusiast;Python+Developer;Creator+of+Panther+AI;Ethical+Hacker" alt="Typing SVG" />
