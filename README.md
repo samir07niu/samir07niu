@@ -1,4 +1,4 @@
-# 🕵️ Sameer Raja (Cyber07)
+# 🕵️ Samir Raja (Cyber07)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=550&lines=Deep-Tech+Cybersec+Dev;OSINT+Specialist;Creator+of+ODIN+Forensicator;APCSIP+Intern" alt="Typing SVG" />
