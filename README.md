@@ -1,4 +1,6 @@
-<!-- samir07niu · profile README · full CLI edition -->
+<!-- samir07niu · profile README · full CLI edition · black-hat layer -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:000000,50:0d1117,100:003300&text=CYBER07&fontSize=64&fontColor=00FF00&fontAlign=50&animation=twinkling&desc=BLACK%20HAT%20ENERGY%20%C2%B7%20WHITE%20HAT%20WORK&descAlign=50&descSize=14" width="100%" alt="CYBER07"/>
 
 ```console
 root@cyber07:~# ./initialize.sh --user samir07niu
@@ -15,7 +17,21 @@ root@cyber07:~# ./initialize.sh --user samir07niu
  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝     ╚═════╝    ╚═╝
 
         S A M I R   R A J A   ·   EST. IN THE TERMINAL
+
+      ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+      █  ⚠  WARNING: YOU HAVE ENTERED A MONITORED  █
+      █     SYSTEM. EVERY MOVE IS LOGGED.          █
+      ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+           ☠  NO GODS · NO MASTERS · ONLY ROOT  ☠
 ```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=900&color=00FF00&center=true&width=640&lines=%24+whoami+>+samir_raja+%5BCYBER07%5D;root+access%3A+GRANTED;hunting+threats+in+the+dark...;forensics+%C2%B7+OSINT+%C2%B7+red+team;you+are+being+watched+%E2%98%A0" alt="typing animation"/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRzZnV6bXZsOW4yaDJ2cmxydjQ4NzhlNGQ0YmVvZnBldGozNmpxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L5aC2b3jRvURi/giphy.gif" width="100%" alt="matrix rain"/>
+
+</div>
 
 ```console
 root@cyber07:~# whoami
@@ -106,6 +122,27 @@ $ LEA_collab ............... Real-time threat intelligence work with law enforce
 
 ---
 
+### `root@cyber07:~# ./darkside.sh --enter`
+
+```console
+$ tail -f /var/log/intrusions.log
+[blocked]  185.×××.×××.××  script-kiddie scan ......... dropped
+[honeypot] 42 bots walked into the trap today ......... logged & reported
+[blocked]  brute-force on /admin ...................... nice try ☠
+[alert]    unknown node probing the perimeter .......... already watching it
+
+$ cat /root/.classified/access.level
+████████████████████████████████████ 100% ROOT
+clearance: BEYOND TOP SECRET - this file should not exist.
+
+$ alias blackhat
+alias blackhat='echo "the hat is black. the work protects people."'
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="26" alt="target"/> <samp>look: black hat · kaam: awaam ki hifazat · yahi is profile ka sach hai</samp>
+
+---
+
 ### `root@cyber07:~# ./github_stats --fetch --live`
 
 <div align="center">
@@ -139,3 +176,5 @@ root@cyber07:~# exit
 logout
 // connection terminated by foreign host - but the hunt continues.
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:003300,50:0d1117,100:000000&section=footer&animation=twinkling" width="100%" alt="footer wave"/>
