@@ -34,6 +34,26 @@ root@cyber07:~# ./initialize.sh --user samir07niu
 </div>
 
 ```console
+root@cyber07:~# ./wake_up_neo.sh
+Wake up, Neo...
+The Matrix has you.
+Follow the white rabbit. Knock, knock.
+
+          ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+       ▄█████████████████████▄
+      █████████████████████████
+      █████▀▀▀▀▀█████▀▀▀▀▀█████
+      ████   ▄▄▄█████▄▄▄   ████
+      ████  █████████████  ████
+      █████  ▀█████████▀  █████
+       ██████▄▄▄▄▄▄▄▄▄███████
+        ▀███████████████████▀
+           █ █ █ █ █ █ █
+          ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+   ☠  YOU TOOK THE RED PILL. WELCOME TO THE REAL WORLD.  ☠
+```
+
+```console
 root@cyber07:~# whoami
 samir_raja (CYBER07)
 Cyber Crime Investigator & Offensive Security Researcher
@@ -124,7 +144,21 @@ $ LEA_collab ............... Real-time threat intelligence work with law enforce
 
 ### `root@cyber07:~# ./darkside.sh --enter`
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=800&color=FF0000&width=560&lines=scanning+perimeter...;intrusion+detected+%E2%98%A0;counterstrike%3A+DEPLOYED;sudo+rm+-rf+%2Fdoubt+%2Ffear+%2Flimits" alt="darkside typing"/>
+
 ```console
+$ nmap -sS -A cyberspace --top-threats
+PORT        STATE   SERVICE        THREAT
+1930/tcp    open    scam-call-centers   [JAAL deployed - baiting in progress]
+phishing    open    fake-banks          [takedown requested]
+darkweb     open    data-markets        [under watch]
+you         open    reading-this        [no threat detected - welcome]
+
+$ ./exploit --target mediocrity
+[████████████████████] 100% SYSTEM COMPROMISED
+...just kidding. this is a profile, not a crime scene.
+the real exploits run in labs, on paper, with the law on my side.
+
 $ tail -f /var/log/intrusions.log
 [blocked]  185.×××.×××.××  script-kiddie scan ......... dropped
 [honeypot] 42 bots walked into the trap today ......... logged & reported
@@ -151,6 +185,16 @@ alias blackhat='echo "the hat is black. the work protects people."'
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samir07niu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9&langs_count=6&border_radius=0" height="165" alt="top languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir07niu&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=484f58&border_radius=0" width="86%" alt="streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samir07niu&theme=react-dark&bg_color=0D1117&color=00FF00&line=FF0000&point=c9d1d9&area=true&hide_border=true" width="86%" alt="activity graph - live attack map"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=samir07niu&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="86%" alt="trophy case"/>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=samir07niu&style=flat-square&color=00FF00&label=sys.views" alt="views"/>
 
