@@ -221,4 +221,14 @@ logout
 // connection terminated by foreign host - but the hunt continues.
 ```
 
+### `root@cyber07:~# ./snake.exe`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/samir07niu/samir07niu/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+
+`> the snake eats my commits. feed it daily.`
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:003300,50:0d1117,100:000000&section=footer&animation=twinkling" width="100%" alt="footer wave"/>
